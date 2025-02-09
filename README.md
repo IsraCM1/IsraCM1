@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hello my name is Israel Cruz Mendez. Student at Montclair State University taking Computer Science (Combined BS/MS)
+
+- Currently learning Java
+- This page is a work in progress
 <!--
 **IsraCM1/IsraCM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
