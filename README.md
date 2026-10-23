@@ -55,8 +55,7 @@ A collaborative campus commerce and student wallet project built with Flutter.
 
 
 ## Language activity
-
-![Languages used across my repositories](./metrics.languages.svg)
+![Languages used in my contributions](https://raw.githubusercontent.com/IsraCM1/IsraCM1/main/metrics.languages.svg?v=2)
 
 
 ## Current Education
