@@ -23,7 +23,7 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_indepth: yes
-          plugin_languages_indepth_custom: harshvk8/redhawkwallet-flutter
+          plugin_languages_indepth_custom: harshvk8/redhawkwallet-flutter, Montclair-Team/NightScout
           commits_authoring: IsraCM1, Israel Cruz Mendez
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
