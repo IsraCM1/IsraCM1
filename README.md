@@ -1,16 +1,6 @@
-<div align="center">
 ![Israel Cruz Mendez — silver holographic profile](./silver-holo-animated.gif)
 
-# Hello, Im Israel Cruz Mendez
-
-### Student 
-
-Combined BS/MS Computer Science at **Montclair State University**  
-Seeking software engineering internship opportunities
-
 [GitHub](https://github.com/IsraCM1) · [Explore Red Hawk Wallet](https://github.com/harshvk8/redhawkwallet-flutter)
-
-</div>
 
 ---
 
