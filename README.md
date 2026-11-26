@@ -1,4 +1,6 @@
-![Israel Cruz Mendez — silver holographic profile](./silver-holo-animated.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/IsraCM1/IsraCM1/main/silver-holo-banner.gif" alt="Israel Cruz Mendez — animated silver holographic profile" width="900">
+</p>
 
 [GitHub](https://github.com/IsraCM1) · [Explore Red Hawk Wallet](https://github.com/harshvk8/redhawkwallet-flutter)
 
