@@ -1,4 +1,5 @@
 <div align="center">
+![Israel Cruz Mendez — silver holographic profile](./silver-holo-animated.gif)
 
 # Hello, Im Israel Cruz Mendez
 
